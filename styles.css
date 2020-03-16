@@ -1,0 +1,9 @@
+body {
+    Width: 100%;
+}
+
+.exchangeForm {
+    padding:20px;
+    margin:20px;
+    border: 1px;
+}
